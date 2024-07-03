@@ -1,0 +1,646 @@
+{
+    "Beverages": {
+        "Smoothies": [
+            {
+                "name": "Mango Smoothie",
+                "type": "Veg",
+                "price": 5.99,
+                "ingredients": [
+                    "Mango",
+                    "Yogurt",
+                    "Honey",
+                    "Ice"
+                ]
+            }
+        ],
+        "Teas": [
+            {
+                "name": "Green Tea",
+                "type": "Veg",
+                "price": 3.50,
+                "ingredients": [
+                    "Green Tea Leaves",
+                    "Water"
+                ]
+            }
+        ],
+        "Lemonades": [
+            {
+                "name": "Lemonade",
+                "type": "Veg",
+                "price": 4.00,
+                "ingredients": [
+                    "Lemon",
+                    "Sugar",
+                    "Water",
+                    "Mint"
+                ]
+            }
+        ]
+    },
+    "Spring & Summer": {
+        "Salads": [
+            {
+                "name": "Watermelon Salad",
+                "type": "Veg",
+                "price": 7.50,
+                "ingredients": [
+                    "Watermelon",
+                    "Feta Cheese",
+                    "Mint",
+                    "Olive Oil"
+                ]
+            },
+            {
+                "name": "Grilled Chicken Salad",
+                "type": "Non-Veg",
+                "price": 10.99,
+                "ingredients": [
+                    "Grilled Chicken",
+                    "Lettuce",
+                    "Cherry Tomatoes",
+                    "Cucumber",
+                    "Olive Oil"
+                ]
+            }
+        ],
+        "Coolers": [
+            {
+                "name": "Cucumber Mint Cooler",
+                "type": "Veg",
+                "price": 4.50,
+                "ingredients": [
+                    "Cucumber",
+                    "Mint",
+                    "Lemon",
+                    "Sugar",
+                    "Water"
+                ]
+            }
+        ],
+        "Egg Dishes": [
+            {
+                "name": "Deviled Eggs",
+                "type": "Egg",
+                "price": 6.00,
+                "ingredients": [
+                    "Eggs",
+                    "Mayonnaise",
+                    "Mustard",
+                    "Paprika"
+                ]
+            }
+        ]
+    },
+    "Newly Introduced": {
+        "Breakfast": [
+            {
+                "name": "Avocado Toast",
+                "type": "Veg",
+                "price": 8.00,
+                "ingredients": [
+                    "Avocado",
+                    "Bread",
+                    "Olive Oil",
+                    "Salt",
+                    "Pepper"
+                ]
+            },
+            {
+                "name": "Shakshuka",
+                "type": "Egg",
+                "price": 9.50,
+                "ingredients": [
+                    "Eggs",
+                    "Tomatoes",
+                    "Onions",
+                    "Bell Peppers",
+                    "Spices"
+                ]
+            }
+        ],
+        "Burgers & Sandwiches": [
+            {
+                "name": "Vegan Burger",
+                "type": "Veg",
+                "price": 12.00,
+                "ingredients": [
+                    "Vegan Patty",
+                    "Lettuce",
+                    "Tomato",
+                    "Vegan Bun",
+                    "Vegan Mayo"
+                ]
+            }
+        ],
+        "Pizza": [
+            {
+                "name": "BBQ Chicken Pizza",
+                "type": "Non-Veg",
+                "price": 14.99,
+                "ingredients": [
+                    "Chicken",
+                    "BBQ Sauce",
+                    "Cheese",
+                    "Pizza Dough",
+                    "Onions"
+                ]
+            }
+        ]
+    },
+    "Bar": {
+        "Mocktails": [
+            {
+                "name": "Mocktail Selection",
+                "type": "Veg",
+                "price": 7.00,
+                "ingredients": [
+                    "Fruit Juices",
+                    "Soda",
+                    "Mint",
+                    "Sugar"
+                ]
+            }
+        ],
+        "Platters": [
+            {
+                "name": "Vegetarian Platter",
+                "type": "Veg",
+                "price": 15.00,
+                "ingredients": [
+                    "Vegetable Samosas",
+                    "Spring Rolls",
+                    "Falafel",
+                    "Hummus"
+                ]
+            }
+        ],
+        "Wings": [
+            {
+                "name": "Chicken Wings",
+                "type": "Non-Veg",
+                "price": 12.00,
+                "ingredients": [
+                    "Chicken Wings",
+                    "Hot Sauce",
+                    "Butter"
+                ]
+            }
+        ],
+        "Egg Dishes": [
+            {
+                "name": "Scotch Eggs",
+                "type": "Egg",
+                "price": 10.00,
+                "ingredients": [
+                    "Eggs",
+                    "Sausage Meat",
+                    "Breadcrumbs",
+                    "Herbs"
+                ]
+            }
+        ]
+    },
+    "Food": {
+        "Pizza": [
+            {
+                "name": "Margherita Pizza",
+                "type": "Veg",
+                "price": 11.00,
+                "ingredients": [
+                    "Pizza Dough",
+                    "Tomato Sauce",
+                    "Mozzarella Cheese",
+                    "Basil"
+                ]
+            }
+        ],
+        "Indian": [
+            {
+                "name": "Paneer Tikka",
+                "type": "Veg",
+                "price": 9.00,
+                "ingredients": [
+                    "Paneer",
+                    "Yogurt",
+                    "Spices",
+                    "Bell Peppers"
+                ]
+            },
+            {
+                "name": "Butter Chicken",
+                "type": "Non-Veg",
+                "price": 13.50,
+                "ingredients": [
+                    "Chicken",
+                    "Butter",
+                    "Tomatoes",
+                    "Cream",
+                    "Spices"
+                ]
+            },
+            {
+                "name": "Lamb Kebab",
+                "type": "Non-Veg",
+                "price": 14.00,
+                "ingredients": [
+                    "Lamb",
+                    "Spices",
+                    "Herbs",
+                    "Onions"
+                ]
+            }
+        ],
+        "Rice Dishes": [
+            {
+                "name": "Egg Fried Rice",
+                "type": "Egg",
+                "price": 8.00,
+                "ingredients": [
+                    "Rice",
+                    "Eggs",
+                    "Vegetables",
+                    "Soy Sauce"
+                ]
+            }
+        ]
+    },
+    "Sushi & Dimsum": {
+        "Sushi": [
+            {
+                "name": "Vegetable Sushi",
+                "type": "Veg",
+                "price": 10.00,
+                "ingredients": [
+                    "Rice",
+                    "Nori",
+                    "Cucumber",
+                    "Avocado",
+                    "Carrots"
+                ]
+            },
+            {
+                "name": "Salmon Sushi",
+                "type": "Non-Veg",
+                "price": 12.00,
+                "ingredients": [
+                    "Rice",
+                    "Nori",
+                    "Salmon",
+                    "Wasabi"
+                ]
+            }
+        ],
+        "Dimsum": [
+            {
+                "name": "Vegetable Dimsum",
+                "type": "Veg",
+                "price": 8.00,
+                "ingredients": [
+                    "Vegetables",
+                    "Wheat Flour",
+                    "Soy Sauce"
+                ]
+            },
+            {
+                "name": "Prawn Dimsum",
+                "type": "Non-Veg",
+                "price": 9.00,
+                "ingredients": [
+                    "Prawns",
+                    "Wheat Flour",
+                    "Soy Sauce"
+                ]
+            }
+        ]
+    },
+    "Lunch Offers": {
+        "Thali": [
+            {
+                "name": "Vegetarian Thali",
+                "type": "Veg",
+                "price": 11.50,
+                "ingredients": [
+                    "Rice",
+                    "Dal",
+                    "Vegetable Curry",
+                    "Roti",
+                    "Pickle"
+                ]
+            }
+        ],
+        "Pasta": [
+            {
+                "name": "Pasta Primavera",
+                "type": "Veg",
+                "price": 10.00,
+                "ingredients": [
+                    "Pasta",
+                    "Vegetables",
+                    "Olive Oil",
+                    "Parmesan"
+                ]
+            }
+        ],
+        "Rice Dishes": [
+            {
+                "name": "Chicken Biryani",
+                "type": "Non-Veg",
+                "price": 13.00,
+                "ingredients": [
+                    "Rice",
+                    "Chicken",
+                    "Spices",
+                    "Yogurt"
+                ]
+            }
+        ],
+        "Seafood": [
+            {
+                "name": "Grilled Fish",
+                "type": "Non-Veg",
+                "price": 14.00,
+                "ingredients": [
+                    "Fish",
+                    "Lemon",
+                    "Herbs",
+                    "Olive Oil"
+                ]
+            }
+        ],
+        "Egg Dishes": [
+            {
+                "name": "Egg Curry",
+                "type": "Egg",
+                "price": 9.50,
+                "ingredients": [
+                    "Eggs",
+                    "Tomatoes",
+                    "Onions",
+                    "Spices"
+                ]
+            }
+        ]
+    },
+    "Best Sellers": {
+        "Indian": [
+            {
+                "name": "Paneer Butter Masala",
+                "type": "Veg",
+                "price": 11.00,
+                "ingredients": [
+                    "Paneer",
+                    "Butter",
+                    "Tomatoes",
+                    "Cream",
+                    "Spices"
+                ]
+            },
+            {
+                "name": "Veg Biryani",
+                "type": "Veg",
+                "price": 10.50,
+                "ingredients": [
+                    "Rice",
+                    "Vegetables",
+                    "Spices",
+                    "Yogurt"
+                ]
+            },
+            {
+                "name": "Chicken Tandoori",
+                "type": "Non-Veg",
+                "price": 12.00,
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Spices"
+                ]
+            },
+            {
+                "name": "Mutton Rogan Josh",
+                "type": "Non-Veg",
+                "price": 14.00,
+                "ingredients": [
+                    "Mutton",
+                    "Tomatoes",
+                    "Spices",
+                    "Yogurt"
+                ]
+            }
+        ],
+        "Egg Dishes": [
+            {
+                "name": "Egg Bhurji",
+                "type": "Egg",
+                "price": 8.00,
+                "ingredients": [
+                    "Eggs",
+                    "Onions",
+                    "Tomatoes",
+                    "Spices"
+                ]
+            }
+        ]
+    },
+    "Hot Selling Items": {
+        "Sandwiches": [
+            {
+                "name": "Grilled Cheese Sandwich",
+                "type": "Veg",
+                "price": 6.50,
+                "ingredients": [
+                    "Bread",
+                    "Cheese",
+                    "Butter"
+                ]
+            }
+        ],
+        "Burgers": [
+            {
+                "name": "Beef Burger",
+                "type": "Non-Veg",
+                "price": 11.00,
+                "ingredients": [
+                    "Beef Patty",
+                    "Bun",
+                    "Lettuce",
+                    "Tomato",
+                    "Cheese"
+                ]
+            }
+        ],
+        "Egg Dishes": [
+            {
+                "name": "Egg Sandwich",
+                "type": "Egg",
+                "price": 7.00,
+                "ingredients": [
+                    "Eggs",
+                    "Bread",
+                    "Mayonnaise",
+                    "Lettuce"
+                ]
+            }
+        ]
+    },
+    "Cafe27's Best Selling Cocktails": {
+        "Cocktails": [
+            {
+                "name": "Mojito",
+                "type": "Veg",
+                "price": 8.00,
+                "ingredients": [
+                    "White Rum",
+                    "Mint",
+                    "Lime",
+                    "Sugar",
+                    "Soda Water"
+                ]
+            },
+            {
+                "name": "Margarita",
+                "type": "Veg",
+                "price": 9.00,
+                "ingredients": [
+                    "Tequila",
+                    "Lime Juice",
+                    "Cointreau",
+                    "Salt"
+                ]
+            },
+            {
+                "name": "Whiskey Sour",
+                "type": "Non-Veg",
+                "price": 10.00,
+                "ingredients": [
+                    "Whiskey",
+                    "Lemon Juice",
+                    "Sugar",
+                    "Egg White"
+                ]
+            }
+        ]
+    },
+    "Desserts": {
+        "Cakes": [
+            {
+                "name": "Chocolate Lava Cake",
+                "type": "Veg",
+                "price": 6.50,
+                "ingredients": [
+                    "Chocolate",
+                    "Flour",
+                    "Sugar",
+                    "Butter"
+                ]
+            }
+        ],
+        "Indian Sweets": [
+            {
+                "name": "Rasmalai",
+                "type": "Veg",
+                "price": 5.00,
+                "ingredients": [
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Saffron"
+                ]
+            }
+        ],
+        "Cheesecake": [
+            {
+                "name": "Cheesecake",
+                "type": "Non-Veg",
+                "price": 7.00,
+                "ingredients": [
+                    "Cream Cheese",
+                    "Sugar",
+                    "Graham Crackers",
+                    "Eggs"
+                ]
+            }
+        ],
+        "Custard": [
+            {
+                "name": "Fruit Custard",
+                "type": "Egg",
+                "price": 5.50,
+                "ingredients": [
+                    "Milk",
+                    "Sugar",
+                    "Fruits",
+                    "Custard Powder"
+                ]
+            }
+        ]
+    },
+    "Shisha": {
+        "Flavors": [
+            {
+                "name": "Mint Shisha",
+                "type": "Veg",
+                "price": 15.00,
+                "ingredients": [
+                    "Mint Flavor",
+                    "Shisha Tobacco"
+                ]
+            },
+            {
+                "name": "Apple Shisha",
+                "type": "Veg",
+                "price": 15.00,
+                "ingredients": [
+                    "Apple Flavor",
+                    "Shisha Tobacco"
+                ]
+            },
+            {
+                "name": "Mixed Fruit Shisha",
+                "type": "Veg",
+                "price": 18.00,
+                "ingredients": [
+                    "Mixed Fruit Flavors",
+                    "Shisha Tobacco"
+                ]
+            }
+        ]
+    },
+    "Events": {
+        "Entertainment": [
+            {
+                "name": "Karaoke Night",
+                "type": "Veg",
+                "price": 0.00,
+                "ingredients": [
+                    "Music",
+                    "Microphone",
+                    "Lyrics"
+                ]
+            },
+            {
+                "name": "Live Band Performance",
+                "type": "Veg",
+                "price": 0.00,
+                "ingredients": [
+                    "Band",
+                    "Instruments",
+                    "Music"
+                ]
+            }
+        ],
+        "Workshops": [
+            {
+                "name": "Cooking Workshop",
+                "type": "Veg",
+                "price": 25.00,
+                "ingredients": [
+                    "Ingredients",
+                    "Chef",
+                    "Cooking Equipment"
+                ]
+            }
+        ]
+    }
+}

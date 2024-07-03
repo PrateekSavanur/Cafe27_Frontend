@@ -1,0 +1,42 @@
+.head {
+  font-size: large;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+}
+
+.side-menu {
+  position: fixed;
+  font-size: medium;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 100%;
+  background-color: #fff;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 120;
+}
+
+.menu-content {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: start;
+}
+
+.menu-content ul {
+  list-style-type: none;
+}
+
+.menu-content li {
+  padding: 5px;
+}
+
+.menu-options {
+  padding-left: 10px;
+  padding-top: 10px;
+  cursor: pointer;
+}

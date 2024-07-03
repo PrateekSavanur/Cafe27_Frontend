@@ -1,0 +1,29 @@
+.flex-container {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  background-color: #f7f7f7;
+  position: sticky;
+  top: 0%;
+  z-index: 100;
+}
+
+.ham {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 2;
+}
+
+.span1 {
+  font-size: medium;
+  font-weight: bold;
+}
+
+.span2 {
+  font-size: small;
+  font-weight: lighter;
+}
