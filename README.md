@@ -1,4 +1,3 @@
-````markdown
 # Cafe27 Frontend Clone
 
 This project aims to clone the frontend of the Cafe27 website's catalog page. Cafe27 is a fictional cafe and restaurant, and this project serves as a learning exercise and practice in frontend web development using React.
@@ -19,10 +18,10 @@ The goal of this project is to replicate the look and feel of the Cafe27 catalog
 To run this project locally, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/cafe27-frontend-clone.git
    ```
-````
 
 2. Navigate into the project directory:
 
