@@ -606,41 +606,5 @@
                 ]
             }
         ]
-    },
-    "Events": {
-        "Entertainment": [
-            {
-                "name": "Karaoke Night",
-                "type": "Veg",
-                "price": 0.00,
-                "ingredients": [
-                    "Music",
-                    "Microphone",
-                    "Lyrics"
-                ]
-            },
-            {
-                "name": "Live Band Performance",
-                "type": "Veg",
-                "price": 0.00,
-                "ingredients": [
-                    "Band",
-                    "Instruments",
-                    "Music"
-                ]
-            }
-        ],
-        "Workshops": [
-            {
-                "name": "Cooking Workshop",
-                "type": "Veg",
-                "price": 25.00,
-                "ingredients": [
-                    "Ingredients",
-                    "Chef",
-                    "Cooking Equipment"
-                ]
-            }
-        ]
     }
 }

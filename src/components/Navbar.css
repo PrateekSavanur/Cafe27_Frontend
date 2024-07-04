@@ -16,6 +16,7 @@
 .container {
   display: grid;
   grid-template-columns: 2;
+  cursor: pointer;
 }
 
 .span1 {

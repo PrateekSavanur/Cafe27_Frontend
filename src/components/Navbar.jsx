@@ -1,3 +1,4 @@
+import { useNavigate } from "react-router-dom";
 import SideMenu from "./SideMenu";
 import IconButton from "@mui/material/IconButton";
 import MenuIcon from "@mui/icons-material/Menu";
@@ -5,6 +6,7 @@ import SearchIcon from "@mui/icons-material/Search";
 import "./Navbar.css";
 
 const Navbar = ({ setItem, showNav, setShowNav }) => {
+  const navigate = useNavigate();
   return (
     <div className="flex-container">
       <div className="flex-container">
@@ -20,7 +22,12 @@ const Navbar = ({ setItem, showNav, setShowNav }) => {
             <MenuIcon />
           </IconButton>
         </div>
-        <div className="container">
+        <div
+          className="container"
+          onClick={() => {
+            navigate("/");
+          }}
+        >
           <span className="span1">Cafe 27</span>
           <span className="span2">✅ Official website</span>
         </div>
